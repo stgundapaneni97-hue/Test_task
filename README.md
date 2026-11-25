@@ -1,4 +1,4 @@
-# Hi there 👋 I'm YOUR NAME
+# Hi there 👋 I'm Saitarun Gundapaneni
 
 Developer | Networking | Cybersecurity | Cloud & Automation
 
@@ -13,11 +13,11 @@ Developer | Networking | Cybersecurity | Cloud & Automation
 ## Featured projects
 | Project | Description |
 | --- | --- |
-| [Project 1](https://github.com/YOUR-USERNAME/PROJECT-1) | Add a short description |
-| [Project 2](https://github.com/YOUR-USERNAME/PROJECT-2) | Add a short description |
+| [Project 1](https://github.com/stgundapaneni97-hue/PROJECT-1) | Add a short description |
+| [Project 2](https://github.com/stgundapaneni97-hue/PROJECT-2) | Add a short description |
 
 ## Connect
-- [GitHub](https://github.com/YOUR-USERNAME)
-- [My portfolio](https://YOUR-USERNAME.github.io/)
+- [GitHub](https://github.com/stgundapaneni97-hue)
+- [My portfolio](https://stgundapaneni97-hue.github.io/)
 
 <!-- Replace placeholders and remove any skills or links that do not apply. -->
