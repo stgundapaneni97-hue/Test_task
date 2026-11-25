@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Gundapaneni stgundapaneni97-hue](https://github.com/stgundapaneni97-hue) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [stgundapaneni97-hue](https://github.com/stgundapaneni97-hue) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
 # 💫 About Me:
